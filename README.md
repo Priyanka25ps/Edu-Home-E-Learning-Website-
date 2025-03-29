@@ -1,11 +1,5 @@
 # Edu-Home-Virtual-Classroom
 
-https://i.ibb.co/NjLSv8x/lohedu-removebg-preview.png
-
-
-Videos:
-https://youtu.be/KVWgOmY1bls
-
 SYNOPSIS
 
 Domain: 
@@ -39,6 +33,4 @@ Backend: Laravel
 Database: MySQL.
 Server: Apache
 
-Project Members: 
-Neha Bisht and Abhinav Jha
 
